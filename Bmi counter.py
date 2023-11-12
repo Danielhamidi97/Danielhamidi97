@@ -1,5 +1,5 @@
 h =int (input("enter your height"))
-w =int (input("enter your height"))
+w =int (input("enter your weight"))
 BMI = w / (h * h)* 10000
 if BMI >= 40:
     print('You are in obesity class III')
